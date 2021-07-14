@@ -43,7 +43,7 @@ public class App {
                 }
             }
             alunos.add(aluno1);
-        }//fim do for
+        }//fim do for dd
         for (Aluno aluno: alunos) {
 
 
